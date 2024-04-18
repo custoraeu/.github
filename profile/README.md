@@ -1,5 +1,5 @@
-# Custora
-"Custora" is a merge of the words Custodio and Storage "Storage I control"
+# Custorium
+"Custorium" is a merge of the words "Custodio" and and "storium" (a neologism derived from "storage") sou could be explained as  "Storage I control"
 
 ## Project goal
 For now it is a playground to explore different techniques and protocols currently in use or in development for personal / organisational storages and data spaces. 
